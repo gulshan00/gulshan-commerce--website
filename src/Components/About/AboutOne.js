@@ -3,7 +3,7 @@ import imgBlock1 from '../../assets/img/home1/img-block1.jpg';
 import tabImg1 from '../../assets/img/home1/tab-img.jpg'
 import { Link } from 'react-router-dom';
 import { useState } from 'react';
-import 'react-modal-video/scss/modal-video.scss';
+// import 'react-modal-video/scss/modal-video.scss';
 import ModalVideo from 'react-modal-video';
 
 
